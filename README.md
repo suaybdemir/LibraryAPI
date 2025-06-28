@@ -24,34 +24,6 @@
 
 #####  Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-    - [ Prerequisites](#-prerequisites)
-    - [ Installation](#-installation)
-    - [ Usage](#-usage)
-    - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
-
----
-
-##  Overview
-
-<code>❯ Had built api in order to serve services for library management apps.</code>
-
----
-
-##  Features
-
-<code>❯ SOON...</code>
-
----
-
 ##  Repository Structure
 
 ```sh
