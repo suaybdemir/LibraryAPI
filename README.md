@@ -1,28 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="20%" alt="LIBRARYAPI-logo">
-</p>
-<p align="center">
-    <h1 align="center">LIBRARY API</h1>
-</p>
-<p align="center">
-    <em><code>❯ Library API</code></em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/suaybdemir/LibraryAPI?style=flat&logo=opensourceinitiative&logoColor=white&color=f1f1f1" alt="license">
-	<img src="https://img.shields.io/github/last-commit/suaybdemir/LibraryAPI?style=flat&logo=git&logoColor=white&color=f1f1f1" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/suaybdemir/LibraryAPI?style=flat&color=f1f1f1" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/suaybdemir/LibraryAPI?style=flat&color=f1f1f1" alt="repo-language-count">
-</p>
-<p align="center">
-		<em>Built with .Net Core and technologies:</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
-</p>
-
-<br>
-
-#####  Table of Contents
 
 ##  Repository Structure
 
